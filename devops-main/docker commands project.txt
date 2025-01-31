@@ -1,0 +1,15 @@
+docker-compose up
+docker run -d -p 3000:3000 ubuntu
+
+docker run -d -p 3000:3000 --name pokemon ubuntu
+
+docker rm pokemonbox
+docker rm degx5673
+docker rm my-container
+docker stop my-container
+sudo service docker restart
+docker run -d 4000 : 3000 ubuntu
+
+
+
+
